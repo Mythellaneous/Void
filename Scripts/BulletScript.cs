@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BulletScript : MonoBehavior
+public class BulletScript : MonoBehaviour
 {
     public float Speed;
     public AudioClip Sound;
